@@ -1,5 +1,4 @@
-# Rahul Jha Portfolio
-## Data Science Portfolio
+# Data Science Portfolio
 
 ### CLICK ON THE PROJECT TITLE TO VIEW THE PROJECT!
 
