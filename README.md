@@ -1,5 +1,5 @@
 # Rahul Jha
-# Data Science Portfolio
+## Data Science Portfolio
 
 ### CLICK ON THE PROJECT TITLE TO VIEW THE PROJECT!
 
@@ -37,6 +37,8 @@ After cleaning the data,I started with EDA. These are some of the outcomes of ED
     |                 Random Forest                 |     0.817      |     0.808     |
     +-----------------------------------------------+----------------+---------------+
  
+
+
 # [Project 2 - Genetic Mutation Classification for Cancer Treatment : Project Overview](https://github.com/Rahul713713/Genetic_Mutation_Classification_for_Cancer_Treatment)
 ![](/images/CancerTreatment.jpg)
 - Created multiple charts,graphs,countplots,etc. in order to understand the data as this was a multiclass classification problem.
@@ -71,3 +73,39 @@ Classify the given genetic variations/mutations based on evidence from text-base
 
 ### Confusion Matrix for Logistic Regression With Class balancing 
 ![](/images/Confusion_Matrix.png)
+
+
+
+# [Project 3 - Flight Fare Prediction : Project Overview](https://github.com/Rahul713713/Flight_Fare_Prediction)
+![](/images/indigo.png)
+- Created multiple charts,graphs,countplots,etc. in order to understand how price varies with different features.
+- Worked on a dataset consisting of 10683 rows of data for 10 different features.
+- Performed univariate analysis as well as multivariate analysis on various features to understand the importance of every feature.
+- Performed data cleaning, data preprocessing and exploratory data analysis to understand the independent variables and prepare the data for modeling.
+- Implemented multiple regression algorithms and came up an r square value of 0.85 with XGB.
+
+# Problem Statement
+Predict the ticket prices of flights based on multiple independent variables and machine learning algorithms.
+
+The data that I have contains information such as Airline,Date_of_Journey,Source,Duration,etc. and I have to predict price of the tocket based on these features and machine learning.
+
+# EDA
+After cleaning the data,I started with EDA. These are some of the outcomes of EDA 
+
+![](/images/Most_Used_Airlines.png)
+![](/images/price_vs_airplanes.png)
+### Feature Importance
+![](/images/Feature_Importance.png)
+
+# Result
+
+    +-----------------------------------------------------------------------------------+
+    | *** Model Summary *** [Performance Metric: R squared(Coefficient Of Determination)] |
+    +--------------------------------+---------------+---------------+------------------+
+    |           Model Name           |      MAE      |      RMSE     |    R squared     |
+    +--------------------------------+---------------+---------------+------------------+
+    |       Linear Regression        |    1927.93    |      2418     |       0.62       |
+    |         Decision Tree          |    1328.57    |      2418     |       0.73       |
+    |         Random forest          |    1183.04    |    2096.69    |       0.8        |
+    |              XGB               |    1135.49    |    1820.25    |       0.85       |
+    +--------------------------------+---------------+---------------+------------------+
