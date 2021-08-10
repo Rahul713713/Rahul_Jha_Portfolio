@@ -1,7 +1,4 @@
-# Rahul Jha
-## Data Science Portfolio
-
-### CLICK ON THE PROJECT TITLE TO VIEW THE PROJECT!
+### Click on the Project Title to view the project!
 
 # [Project 1 - Loan Status Prediction : Project Overview](https://github.com/Rahul713713/Loan_Status_Prediction)
 ![](/images/loan_status.jpeg)
