@@ -140,3 +140,20 @@ In case we don't want to consider 'Others' as a sector, 'News, Search and Messag
 
 # Project Conclusion
 The company should invest in one of these top three countries: USA,Great Britain and India. The type of investment should be venture and the major sectors for investment should be 'Others', 'Social, Finance, Analytics and Advertising' and 'Cleantech/Semiconductors'.
+
+
+
+# [Project 5 - Forecasting Restaurant's Visitors : Project Overview](https://github.com/Rahul713713/Forecasting_Restaurant-s_Visitors)
+![](/images/Restuarant.png)
+
+# Problem Statement
+We have to forecast the daily customers for four restaurants using the their previous records of daily customers. Our dataset considers daily visitors to four restaurants located in the United States Of America. The dataset also includes the holidays that falls between this time interval where we have to analyze the daily customers and forecast for the future. The dataset contains 478 days of restaurant data and an additional 39 days of holiday data for forecasting purposes. 
+
+# Models Used For Forecasting
+- SARIMA
+- SARIMAX
+                 
+# Observations 
+![](/images/ETS_decomposition.png)
+![](/images/Forecast.png)
+![](/images/Tableau_Forecasting.png)
