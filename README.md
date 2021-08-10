@@ -20,7 +20,7 @@ After cleaning the data,I started with EDA. These are some of the outcomes of ED
 
 ![loan_status](https://github.com/Rahul713713/Rahul_Jha_Portfolio/blob/main/images/loan_eligibilty_based_on_credit_history.png "loan_eligibilty_based_on_credit_history")
 ![loan_status](https://github.com/Rahul713713/Rahul_Jha_Portfolio/blob/main/images/loan_eligibilty_based_on_education.png "loan_eligibilty_based_on_education")
-![loan_status](https://github.com/Rahul713713/Rahul_Jha_Portfolio/blob/main/images/most_important_features.png")
+![loan_status](https://github.com/Rahul713713/Rahul_Jha_Portfolio/blob/main/images/most_important_features.png "most_important_features")
 
 # Result
     +--------------------------------------------------------------------------------+
