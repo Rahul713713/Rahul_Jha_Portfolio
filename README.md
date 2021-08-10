@@ -1,3 +1,5 @@
+# Rahul Jha
+
 ### Click on the Project Title to view the project!
 
 # [Project 1 - Loan Status Prediction : Project Overview](https://github.com/Rahul713713/Loan_Status_Prediction)
@@ -106,3 +108,35 @@ After cleaning the data,I started with EDA. These are some of the outcomes of ED
     |         Random forest          |    1183.04    |    2096.69    |       0.8        |
     |              XGB               |    1135.49    |    1820.25    |       0.85       |
     +--------------------------------+---------------+---------------+------------------+
+
+
+
+# [Project 4 - Investment Management : Project Overview](https://github.com/Rahul713713/Investment-Management)
+![](/images/Investment_Management.jpg)
+- Created multiple charts,graphs,boxplots,etc. in order to understand the data and where the company should invest in order to avoid risks.
+- Worked with 3 different datasets by merging them together.
+- Cleaned the data in each datset and checked for missing values so that they can be merged together.
+- Performed data analysis on the different datasets keeping in mind the two constraints provided by the company.
+
+# Problem Statement
+The problem involves a company which wants to make some investments in few companies to get profits.They are mostly focused on investing in young start-ups and small or mid-size companies. The head of the company wants to understand the world wide trends in investments so that the top managers can decide where they should invest to get good profits.
+
+The company wants to invest in areas where most of the other investors are investing.Since,it's their first investment they want to play safe and avoid huge risks.The objective of this problem is to identify the best sectors, countries, and a suitable investment type for making investments. The overall strategy is to invest where others are investing, implying that the 'best' sectors and countries are the ones 'where most investors are investing'.
+
+# Observations
+After cleaning the data,I started with EDA. These are some of the outcomes of EDA and the important results 
+
+![](/images/Amount_raised_across_four_categories.png)
+![](/images/Top_three_countries_for_investment.png)
+![](/images/Amount_invested.png)
+
+# Results
+- The company should make a venture type investment.
+- The top country in terms of the number of investments (and the total amount invested) is USA. 
+- The top three countries for investemnt are USA,Great Britain and India.
+- The sectors 'Others', 'Social, Finance, Analytics and Advertising' and 'Cleantech/Semiconductors' are the most heavily invested ones.
+
+In case we don't want to consider 'Others' as a sector, 'News, Search and Messaging' is the next best sector
+
+# Project Conclusion
+The company should invest in one of these top three countries: USA,Great Britain and India. The type of investment should be venture and the major sectors for investment should be 'Others', 'Social, Finance, Analytics and Advertising' and 'Cleantech/Semiconductors'.
